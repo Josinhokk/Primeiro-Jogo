@@ -1,6 +1,6 @@
 //colocar uns console.log
 alert ('Bem vindos ao jogo do numéro secreto')
-let limiteNumeros = 100
+let limiteNumeros = 1000
 let numeroSecreto = parseInt(Math.random() * limiteNumeros + 1);
 // a variavel é colocada aqui pra ser reconhecida no while
 let chute
